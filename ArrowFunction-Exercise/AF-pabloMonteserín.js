@@ -77,7 +77,7 @@ const superficieRectangulo = (area , base) => {
     return superficie ;
 }
 
-const resultado = superficieRectangulo(4,5);
+// const resultado = superficieRectangulo(4,5);
 
 console.log(resultado);
 
